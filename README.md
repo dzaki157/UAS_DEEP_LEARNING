@@ -76,13 +76,14 @@ project/
 | stem-root | Bentuk akar tangkai |
 | stem-surface | Tekstur permukaan tangkai |
 | stem-color | Warna tangkai jamur |
-| veil-type | Jenis selubung atau cincin |
+| veil-type | Jenis selubung atau cincin (jika ada) |
 | veil-color | Warna selubung |
 | has-ring | Apakah memiliki cincin |
 | ring-type | Jenis cincin |
 | spore-print-color | Warna cetakan spora |
 | habitat | Lingkungan tempat tumbuh |
 | season | Musim tumbuh |
+
 
 
 ---
