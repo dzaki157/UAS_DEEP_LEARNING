@@ -86,7 +86,9 @@ project/
 
 # 4. 🔧 Data Preparation
 -Cleaning: Ditemukan Missing Values signifikan (mis. veil-type 57k+) dan Duplikat minor (0.24%). Ditangani dengan Imputasi Modus pada kolom kategorikal.
+
 -Transformasi: One-Hot Encoding (OHE) diterapkan pada 17 fitur kategorikal, menghasilkan total 119 fitur. Fitur numerik di-scale menggunakan StandardScaler.
+
 -Splitting: Data dibagi 80% Train (48.855) dan 20% Test (12.214) menggunakan Stratified Split.
 
 ---
