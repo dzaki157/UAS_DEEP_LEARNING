@@ -10,8 +10,11 @@
 
 # 1. 🎯 Ringkasan Proyek
 -Masalah Utama: Mengatasi risiko keselamatan fatal (False Negative) dalam klasifikasi jamur.
+
 -Data Preparation: Data tabular diproses melalui Imputasi Modus, One-Hot Encoding, dan Standard Scaling.
+
 -Model: Membangun Logistic Regression (Baseline), Random Forest (Advanced), dan MLP Neural Network (Deep Learning).
+
 -Evaluasi: Model terbaik (MLP) mencapai Recall 100% dan 0 False Negative.  
 
 ---
@@ -115,7 +118,9 @@ project/
 
 # 7. 🏁 Kesimpulan
 - Model terbaik: Deep Learning (MLP Neural Network).
+  
 - Alasan: Model ini mencapai Recall 100% dan 0 False Negative (FN) pada Test Set, sepenuhnya memenuhi tujuan kritis keselamatan proyek.
+  
 - Insight penting: Kompleksitas model DL diperlukan untuk mencapai hasil sempurna; model RF yang canggih sekalipun masih meninggalkan 304 kasus risiko fatal.
 
 ---
