@@ -127,12 +127,16 @@ project/
 
 # 8. 🔮 Future Work
 -[ ] Tambah data (mengintegrasikan primary_data.csv).
+
 -[ ] Coba arsitektur DL lain (dengan Batch Normalization/Dropout).
+
 -[X] Deployment (Membuat API untuk model terbaik).
+
 -[ ] Tuning model (Hyperparameter tuning RF untuk memverifikasi batas FN).
 
 ---
 
 # 9. 🔁 Reproducibility
-Gunakan environment:Python Version: 3.x
-Main Libraries & Versions: pandas, numpy, scikit-learn, tensorflow/keras (untuk DL), matplotlib, seaborn.
+-Gunakan environment:Python Version: 12
+
+-Main Libraries & Versions: pandas, numpy, scikit-learn, tensorflow/keras (untuk DL), matplotlib, seaborn.
