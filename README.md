@@ -34,23 +34,25 @@
 project/
 │
 ├── data/                   # Dataset (secondary_data.csv)
+│   └──(secondary_data.csv)
 │
 ├── notebooks/              # Jupyter notebooks
-│   └── ML_Project.ipynb
+│   └── revisi_uas.ipynb
 │
 ├── src/                    # Source code
 │   
 ├── models/                 # Saved models
 │   ├── model_baseline.pkl
 │   ├── model_rf.pkl
-│   └── model_cnn.h5
+│   └── model_deep_learning.h5
 │
 ├── images/                 # Visualizations
 │   └── lr_confusion_matrix.png
 │
 ├── requirements.txt        # Dependencies
 ├── .gitignore
-└── README.md
+├── README.md
+└── Laporan Proyek Machine Learning
 ```
 ---
 
